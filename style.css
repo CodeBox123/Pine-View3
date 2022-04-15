@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+
+}
+
+#image{
+    margin-top: 10px;
+    border-style: double;
+    border-width: 10px;
+    border-color: aliceblue;
+}
+
+#image2{
+    width: 100px;
+    height: 75px;
+
+}
